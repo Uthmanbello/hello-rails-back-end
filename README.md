@@ -50,6 +50,10 @@ In order to run this project you need:
 - to install Ruby
 - to install Rails
 
+The React/Redux front end link is given below:
+
+[Hello-React-Front-End](https://github.com/Uthmanbello/hello-react-front-end)
+
 ### Setup
 
 Clone this repository to your desired folder:
